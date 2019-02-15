@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+h1 {
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #f3f8f1;
+	color: #4f0000;
+	
+}
+
+#nom {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 15px;
+	color: #800000;
+	font-family: sans-serif;
+}
+
+img {
+	width: 300px;
+	height: 200px;
+	margin-left: 100px;
+	margin-top: 30px;
+
+}
+
+#conteneur {
+	width: 500px;
+	height: 450px;
+	margin:auto;
+	background-color: #e6f2f0;
+	padding: 10px;
+}
+
+.infos {
+	margin-left: 20px;
+	font-family: sans-serif;
+}
+
+#liens {
+	margin-top: 40px;
+	background-color: #e6e6e8;
+	width: 100px;
+}
